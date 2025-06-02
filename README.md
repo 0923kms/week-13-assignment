@@ -27,7 +27,7 @@
 
 | 약어  | 의미                       |
 |-------|----------------------------|
-| HTML&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  | HyperText Markup Language&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  |
+| HTML&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  | HyperText Markup Language&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  |
 | CSS   | Cascading Style Sheet      |
 
 ## 20243083 김민성
